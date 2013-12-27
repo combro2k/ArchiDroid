@@ -1,5 +1,10 @@
-ArchiDroid 1.7.4
+ArchiDroid 1.7.4.1
 
+* Changes from 1.7.4
+- [!] Fixed GAPPS FC on 1.7.4
+- Updated Boeffla Kernel to 5.1-beta8
+
+* Changes from 1.7.3
 - [!] Bloatware reworked
 # 1. ArchiDroid is now packed with "useful" bloatware by default. This includes Samsung E-mail, Accuweather, LiveWallpapers, Samsung Cloud and Allshare (from old bloatware)
 # Bloatware package is still available, however now it includes only very rarely installed bloatware, such as yahoo widget or chaton.
